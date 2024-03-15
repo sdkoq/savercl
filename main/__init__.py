@@ -15,7 +15,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 API_ID = config("API_ID", "26569252", cast=int)
 API_HASH = config("API_HASH", "6e7bea542d5a4f15edad630067b338fa")
 BOT_TOKEN = config("BOT_TOKEN", "7126329790:AAEh3mfxqGlCL1kQTWh31jOZfC0g5j1ST2Q")
-SESSION = config("SESSION", "BQGVaiQAK4BcHO-vA1Ny2HAn0d1ilnxlgqxyClyfifCAA4d25RBp-TKxYzmXgCf1-u1D_pc_Ilm1ffxQmUqpLQcpZmGk1PfUyWWHBc_Bn1CR3ClJJF07gUyBiHCyLtN45uQog7Gm7G6c76ZMmRNYT7Nk5rZSw2yOwHk07RvVTCa6LV30zyBJHp5MgO5vdeFzTMo_wGZ5BNyUZJImB-SYurTDc8jaZGgntZBElc9U74ui_EULeH9z_iEciiTuSRRCkowMTNDJ4szAhMo6Jd5DFUmInsXLShZwyP8q4U9178uumy1gpwowVWBlGpLBut2SQSRvbO7-LjftnkOZIKPT4_e2i7yJRgAAAAGowym-AQ")
+SESSION = config("SESSION", "BQGVaiQAZXKYiTktItSb1GthH_0hl-xKRqgH9b_6F1HnIw6Kkm6P6Y3CkzqTyDnR4IPPdT3CZYy20xu9CZenWkXt25pRfA0gtL7LjVcxvJZHtnCqCcj5HPJqCGyP-zSKp8dL723FkwThyW4WABFkuftXUFVyGdX9nx7s4p3w2rcI5wsbRoZi8KGOG6sA1au69dtnMTyK9UnS9nI9utimxcijSdnSD6swFiBAgAdkJuNscIGEGydObaT3-zspbaYS_3SuyNNjk8-iUhFF9Wc8Uwnt1w50q1C9DWQXTDz2wJoM-zJt-G_1z89dpm3-NbBHwufvbQhZdf25R7dNDZv-U2Ia1IZhxwAAAABK7NJ7AA")
 FORCESUB = config("FORCESUB", "THE1onefed")
 AUTH = config("AUTH", "1257034363", cast=int)
 
