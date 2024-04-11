@@ -14,7 +14,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 # variables
 API_ID = config("API_ID", "26569252", cast=int)
 API_HASH = config("API_HASH", "6e7bea542d5a4f15edad630067b338fa")
-BOT_TOKEN = config("BOT_TOKEN", "7126329790:AAEh3mfxqGlCL1kQTWh31jOZfC0g5j1ST2Q")
+BOT_TOKEN = config("BOT_TOKEN", "7126329790:AAFkgWvqx_nfcxeUVaCw7GMRztpbRF-hJXM")
 SESSION = config("SESSION", "BQGVaiQAqjRfNX7JxwtwTN2l9l4PPVUun7FIQDVSkLIUWXdc03p6zSRSsFx8RJGxDt4-TGGyzsxWCok06J0yPEzyU1rhG3V7LA4-xwXrzZveD_mRkOIRB3Mc3WaTnHvFyCIG4y-Z-hNgPVCfMn8Vggj2FxyGEah17X5hU6X8--ua6SxgWO8cWJcSJZvbIFOOineTnYZqCs_zAtDiKvhSEEtSnILGyS-zxTXIKULUcdiu33BIF_fE2-hVHzvXpKzcfOy1T3Ec9Kx94OqMiWc1BsIxq10ZyxykOiOssR7_hwrfbJZSkjxgbrx6lL8iTUS98eZzFzhnmD4n6rw7OoF5FiobzfCNEgAAAABK7NJ7AA")
 FORCESUB = config("FORCESUB", "THE1onefed")
 AUTH = config("AUTH", "1257034363", cast=int)
